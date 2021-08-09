@@ -3,3 +3,5 @@ Research on passenger micro modeling and simulation in terminal building, build 
 
 show simulation result:
 ![https://github.com/smlqaq/simple_cellular_automaton-for-simulation/blob/main/cellular_automaton.gif]
+
+
